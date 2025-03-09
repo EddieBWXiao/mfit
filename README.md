@@ -6,11 +6,13 @@ Simple model-fitting tools.
 Questions? Contact Sam Gershman (gershman@fas.harvard.edu).
 
 —————
-Bowen Xiao 2025: attempting at adaptation; contact: bx226@cantab.ac.uk
+
+Bowen Xiao 2025: created a folk for adaptation to use in modelling projects; contact: bx226@cantab.ac.uk
 - Things to work on:
 => demo of parameter recovery with basic task generation
 => msim_ simulation functions
 => example use of options
+
 —————
 
 Quick start. Examples below use snippets from [mfit_demo_RL.m](demos/mfit_demo_RL.m):
